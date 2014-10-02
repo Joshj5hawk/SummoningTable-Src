@@ -1,0 +1,15 @@
+itemGroup.tabSummoningTable=召唤台
+
+item.itemSummoningBook.name=召唤书
+
+item.itemPassiveCraftingOrb.name=被动合成球
+item.itemNeutralCraftingOrb.name=中立合成球
+item.itemHostileCraftingOrb.name=敌对合成球
+item.itemSummoningCore.name=召唤核心
+item.itemStackOfBooks.name=书叠
+
+tile.blockSummoningTableIdle.name=召唤台
+container.summoningTable=召唤
+
+st.tooltip.spawns=生成
+st.tooltip.usesLeft=剩余使用次数
